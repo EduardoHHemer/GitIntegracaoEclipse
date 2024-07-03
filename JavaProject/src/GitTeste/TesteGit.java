@@ -9,6 +9,7 @@ public class TesteGit {
 		System.out.println("Segundo Commit");
 		System.out.println("Segundo Pull");
 		System.out.println("Terceiro Commit");
+		System.out.println("Terceiro Pull");
 		
 	}
 
