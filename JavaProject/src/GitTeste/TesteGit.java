@@ -8,6 +8,7 @@ public class TesteGit {
 		System.out.println("Alterando do git para o eclipse");
 		System.out.println("Segundo Commit");
 		System.out.println("Segundo Pull");
+		System.out.println("Terceiro Commit");
 		
 	}
 
