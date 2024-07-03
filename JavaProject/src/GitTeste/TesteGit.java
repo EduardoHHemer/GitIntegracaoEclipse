@@ -7,6 +7,8 @@ public class TesteGit {
 		System.out.println("Integração Git Eclipse Primeiro Teste");
 		System.out.println("Alterando do git para o eclipse");
 		System.out.println("Segundo Commit");
+		System.out.println("Segundo Pull");
+		
 	}
 
 }
